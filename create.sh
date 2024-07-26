@@ -1,0 +1,45 @@
+cd D:/Local-MesSel/GBBP
+mkdir BANK
+cd D:/Local-MesSel/GBBP/BANK
+mkdir Clients
+mkdir Employees 
+mkdir Staffs
+mkdir Branches
+mkdir Platforms
+mkdir web
+cd D:/Local-MesSel/GBBP/BANK/Clients
+touch clint-{001..4000}.txt
+cd ..
+cd D:/Local-MesSel/GBBP/BANK/Employees
+mkdir Upper-class
+mkdir middle-class
+mkdir lower-class
+cd D:/Local-MesSel/GBBP/BANK/Employees/Upper-class
+touch uc-{001..900}.txt
+cd ..
+cd D:/Local-MesSel/GBBP/BANK/Employees/middle-class
+touch mc-{001..1000}.txt
+cd ..
+cd D:/Local-MesSel/GBBP/BANK/Employees/lower-class
+touch lc-{001..2000}.txt
+cd D:/Local-MesSel/GBBP/BANK/Staffs
+touch staff-{001..100}.txt
+cd D:/Local-MesSel/GBBP/BANK/Branches
+touch branch-{001.080}.txt
+cd D:/Local-MesSel/GBBP/BANK/Platforms
+mkdir Mobile
+cd D:/Local-MesSel/GBBP/BANK/Platforms/mobile
+mkdir addroid
+mkdir ios
+cd ..
+cd D:/Local-MesSel/GBBP/BANK/web
+cd D:/Local-MesSel/GBBP/BANK/web
+cd D:/Local-MesSel/GBBP/BANK/web
+mkdir Features
+cd D:/Local-MesSel/GBBP/BANK/web/Features
+touch feature{001..040}.txt
+cd D:/Local-MesSel/GBBP
+mkdir copybank
+
+
+
